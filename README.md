@@ -18,7 +18,7 @@
 
 ```bash
 pip install requests openpyxl
-```bash
+```
 
 🚀 使用方法
 1️⃣ 修改配置
