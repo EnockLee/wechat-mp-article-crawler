@@ -54,11 +54,13 @@ TOKEN = "你的token"
 python main.py
 ```
 
-3️⃣ 输出结果
+### 3️⃣ 输出结果
 
 运行完成后，会生成：
 
+```text
 wechat_articles.xlsx
+```
 
 包含字段：
 
@@ -100,6 +102,10 @@ Web UI 可视化界面
 ⭐ 如果对你有帮助
 
 欢迎点个 Star 支持一下！
+
+📄 License
+
+MIT
 
 📄 License
 
