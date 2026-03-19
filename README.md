@@ -1,6 +1,9 @@
-<img width="535" height="579" alt="image" src="https://github.com/user-attachments/assets/ced40c9d-ea2a-448a-b639-7052d86300a7" /># WeChat MP Article Scraper
+# WeChat MP Article Scraper
 
 一键导出公众号全部文章数据（标题 / 阅读量 / 链接），无需 API。
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -61,6 +64,8 @@ python wechat_mp.py
 ```text
 wechat_articles.xlsx
 ```
+
+<img width="535" height="579" alt="image" src="https://github.com/user-attachments/assets/ced40c9d-ea2a-448a-b639-7052d86300a7" />
 
 包含字段：
 
