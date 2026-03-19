@@ -57,6 +57,8 @@ TOKEN = "你的token"
 python wechat_mp.py
 ```
 
+<img width="535" height="579" alt="image" src="https://github.com/user-attachments/assets/ced40c9d-ea2a-448a-b639-7052d86300a7" />
+
 ### 3️⃣ 输出结果
 
 运行完成后，会生成：
@@ -64,8 +66,6 @@ python wechat_mp.py
 ```text
 wechat_articles.xlsx
 ```
-
-<img width="535" height="579" alt="image" src="https://github.com/user-attachments/assets/ced40c9d-ea2a-448a-b639-7052d86300a7" />
 
 包含字段：
 
