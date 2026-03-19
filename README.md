@@ -36,9 +36,9 @@ HEADERS = {
     "cookie": "你的cookie",
     "user-agent": "你的UA"
 }
-```
 
 TOKEN = "你的token"
+```
 
 👉 获取方式：
 
