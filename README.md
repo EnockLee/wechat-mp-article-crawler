@@ -20,21 +20,23 @@
 pip install requests openpyxl
 ```
 
-🚀 使用方法
-1️⃣ 修改配置
+## 🚀 使用方法
+
+### 1️⃣ 修改配置
 
 在脚本中填写你的：
 
-Cookie
-
-TOKEN
+- Cookie  
+- TOKEN  
 
 示例：
 
+```python
 HEADERS = {
     "cookie": "你的cookie",
     "user-agent": "你的UA"
 }
+```
 
 TOKEN = "你的token"
 
