@@ -52,6 +52,8 @@ TOKEN = "你的token"
 
 ```bash
 python main.py
+```
+
 3️⃣ 输出结果
 
 运行完成后，会生成：
