@@ -78,10 +78,11 @@ wechat_articles.xlsx
 
 ```text
 ❌ 解析失败，可能 cookie 过期
+```
 
 请重新抓取 Cookie
 
-📌 原理说明
+## 📌 原理说明
 
 通过模拟请求微信公众号后台接口：
 
@@ -93,7 +94,7 @@ publish_page JSON
 
 提取文章数据。
 
-🔧 后续可扩展
+## 🔧 后续可扩展
 
 自动刷新 Cookie（Selenium）
 
@@ -103,10 +104,10 @@ Web UI 可视化界面
 
 数据分析（爆款文章识别）
 
-⭐ 如果对你有帮助
+## ⭐ 如果对你有帮助
 
 欢迎点个 Star 支持一下！
 
-📄 License
+## 📄 License
 
 MIT
