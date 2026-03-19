@@ -51,7 +51,7 @@ TOKEN = "你的token"
 ### 2️⃣ 运行脚本
 
 ```bash
-python main.py
+python wechat_mp.py
 ```
 
 ### 3️⃣ 输出结果
